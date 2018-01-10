@@ -1,0 +1,19 @@
+{
+  "name": "ouanalyse-smooth-scrolling",
+  "version": "1.0.0",
+  "description": "smooth scrolling css trick http://css-tricks.com/snippets/jquery/smooth-scrolling/",
+  "main": "smoothscrolling.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouanalyse/smooth-scrolling.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouanalyse/smooth-scrolling/issues"
+  },
+  "homepage": "https://github.com/ouanalyse/smooth-scrolling#readme"
+}
